@@ -1,5 +1,5 @@
 [package]
-name = "power20"
+name = "pow-erc20"
 version = "0.1.0"
 edition = "2021"
 
