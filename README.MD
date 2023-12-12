@@ -4,6 +4,8 @@
 
 This Rust project is a fully-functional tool for participating in Ethereum's PoWERC20 mining process. It offers a Rust-based implementation for connecting to the Ethereum blockchain, generating nonces, and submitting transactions upon discovering a valid nonce. Ideal for those interested in Ethereum mining or exploring the mechanics of blockchain interactions in Rust.
 
+![Flying](./media/image.png)
+
 ## Features ✨
 
 - **Mining Functionality**: Generates nonces and compares the resulting hash with a target, mirroring Ethereum's actual mining process.
