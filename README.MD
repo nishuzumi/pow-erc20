@@ -13,10 +13,9 @@ This Rust project is a fully-functional tool for participating in Ethereum's PoW
 
 ## Installation and Setup 🛠️
 
-1. **Install Rust**: Ensure you have Rust 1.60 or newer installed.
+1. **Install Rust**: Ensure you have Rust 1.73 or newer installed.
 2. **Clone the Repository**: Download this repository to your machine.
-3. **Dependency Installation**: Run `cargo build` to fetch and compile the necessary dependencies.
-4. **Build the Project**:
+3. **Build the Project**:
    - Navigate to the project directory.
    - Run `cargo build --release` to build the release version of the executable.
 
